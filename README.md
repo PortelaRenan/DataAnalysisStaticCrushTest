@@ -102,11 +102,11 @@ If you use this code or data in your work, please cite the related publication:
 
 ```bibtex
 @phdthesis{portela_thesis,
-  author = {Portela, Renan},
-  title  = {THESIS TITLE},
+  author = {Miranda Portela, Renan},
+  title  = {Effects of Stabilizing Binder on the Formability, Microstructure, and Mechanical Performance of Wet Compression Molded Unidirectional Non-Crimp Fabric Composites},
   school = {University of Waterloo},
-  year   = {YEAR},
-  url    = {THESIS LINK}
+  year   = {2025},
+  url    = {https://uwspace.uwaterloo.ca/items/fe42eb59-ecaf-47cf-acbe-f2e2a4832657}
 }
 ```
 
